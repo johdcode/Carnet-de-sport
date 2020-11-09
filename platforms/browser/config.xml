@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.hello" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Carnet de sport</name>
+    <description>
+        Une application pour enregistrer son historique d'activité sportive.
+    </description>
+    <icon src="www/icon.png" />
+    <author email="" href="">
+        John E.
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="*" />
+    <allow-navigation href="*" />
+</widget>
